@@ -1,7 +1,7 @@
 # T-Deck-BR
 Installing a version of Meshtastic's Fancy UI firmware for the LYLIGO T-Deck
 
-**First of all, dear reader, I want to make it clear that the information shared here and the provided files are authentic and it is not mine. However, this in no way diminishes the value of the project.** I firmly believe that the more people use and engage with [Meshtastic](https://github.com/meshtastic/firmware), the more it will evolve into a comprehensive platform.  
+**First of all, dear reader, I want to make it clear that the information shared here and the provided files are authentic and it is not mine Project. I just compiled it. However, this in no way diminishes the value of the project.** I firmly believe that the more people use and engage with [Meshtastic](https://github.com/meshtastic/firmware) and, off course, [device-ui](https://github.com/meshtastic/device-ui), the more it will evolve into a comprehensive platform.  
 
 What I share here is simply my personal experience—just a report of what happened to me. Perhaps someone else is facing the same situation, and this might serve as a possible solution.
 
