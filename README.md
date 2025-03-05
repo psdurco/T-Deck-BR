@@ -24,7 +24,7 @@ What I share here is simply my personal experience—just a report of what happe
 3. **Switching to M5Stick-Launcher**  
 
    - Installed **M5Stick-Launcher** via [bmorcelli.github.io/M5Stick-Launcher](https://bmorcelli.github.io/M5Stick-Launcher/).  
-   - Selected only the **T-Deck** option.  
+   - Selected only the **T-Deck** option. And wait to process finish.  
 
 4. **Enabling Wi-Fi and Uploading the Firmware**  
 
@@ -38,3 +38,12 @@ What I share here is simply my personal experience—just a report of what happe
 
    - Once the upload is finished, click the **Reboot** button.  
    - The device should restart successfully with **Meshtastic Fancy UI 2.5.22** fully installed.  
+---
+
+## Screenshots
+
+### T-Deck Running Meshtastic Fancy UI
+
+![T-Deck boot Screen](./imgs/boot.jpg)
+![T-Deck Home Screen](./imgs/home.jpg)
+![T-Deck Mesh Detector Screen](./imgs/mesh-detector.jpg)
