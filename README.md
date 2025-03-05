@@ -44,6 +44,6 @@ What I share here is simply my personal experience—just a report of what happe
 
 ### T-Deck Running Meshtastic Fancy UI
 
-![T-Deck boot Screen](imgs/boot.jpg)
+![T-Deck boot Screen](https://raw.githubusercontent.com/psdurco/T-Deck-BR/main/imgs/boot.jpg)
 ![T-Deck Home Screen](imgs/home.jpg)
 ![T-Deck Mesh Detector Screen](imgs/mesh-detector.jpg)
